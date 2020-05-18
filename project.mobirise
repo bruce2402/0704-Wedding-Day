@@ -64,7 +64,8 @@
         "meta_descr": "Welcome to our wedding on 2020 / 07 / 04",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/day-459.jpg"
       },
       "components": [
         {
