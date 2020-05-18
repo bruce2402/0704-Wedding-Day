@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "0704-Wedding-Day",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -60,8 +60,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Bruce & Rosa's Wedding",
+        "meta_descr": "Welcome to our wedding on 2020 / 07 / 04",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -838,7 +838,7 @@
         }
       ]
     },
-    "Gallery.html": {
+    "gallery.html": {
       "settings": {
         "meta_descr": "Bruce & Rosa's Wedding Photo",
         "title": "Gallery",
