@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "0704-Wedding-Day",
-    "currentPage": "gallery.html",
+    "currentPage": "rsvp.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -876,8 +876,8 @@
     },
     "gallery.html": {
       "settings": {
-        "meta_descr": "Bruce & Rosa's Wedding Photo",
-        "title": "Gallery",
+        "meta_descr": "Bruce & Rosa's Pre-Wedding Photo Gallery",
+        "title": "Photo Gallery | Bruce & Rosa's Wedding",
         "order": 1,
         "meta_image": "@PROJECT_PATH@/assets/images/day-1215.jpg"
       },
@@ -1480,8 +1480,8 @@
     },
     "rsvp.html": {
       "settings": {
-        "meta_descr": "Welcome to Bruce & Rosa's Wedding.",
-        "title": "RSVP",
+        "meta_descr": "就是現在，立刻，馬上填表！參加婚禮去！",
+        "title": "Attend Our Wedding  | Bruce & Rosa's Wedding",
         "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/day-1151.jpg"
       },
